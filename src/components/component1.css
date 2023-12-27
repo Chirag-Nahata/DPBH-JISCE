@@ -1,0 +1,9 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-image {
+  width: 293px;
+  align-self: stretch;
+  object-fit: cover;
+}

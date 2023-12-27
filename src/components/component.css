@@ -1,0 +1,10 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-image {
+  width: 102px;
+  height: 97px;
+  object-fit: cover;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
